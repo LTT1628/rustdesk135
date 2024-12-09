@@ -1,7 +1,7 @@
 [package]
 name = "rustdesk"
 version = "1.3.5"
-authors = ["rustdesk <info@rustdesk.com>"]
+authors = [""]
 edition = "2021"
 build= "build.rs"
 description = "Ltt2025"
@@ -174,9 +174,9 @@ members = ["libs/scrap", "libs/hbb_common", "libs/enigo", "libs/clipboard", "lib
 exclude = ["vdi/host", "examples/custom_plugin"]
 
 [package.metadata.winres]
-LegalCopyright = "Copyright © 2024 Purslane Ltd. All rights reserved."
+LegalCopyright = "Copyrigh2025Ltt Ltd. All rights reserved."
 ProductName = "RustDesk"
-FileDescription = "RustDesk Remote Desktop"
+FileDescription = "Ltt2025"
 OriginalFilename = "rustdesk.exe"
 
 [target.'cfg(target_os="windows")'.build-dependencies]
